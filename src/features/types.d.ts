@@ -1,0 +1,1 @@
+export type TAction = 'buy' | 'sell' | 'none'
